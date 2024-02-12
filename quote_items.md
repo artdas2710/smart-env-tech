@@ -35,3 +35,4 @@ This document lays out the quote for Sydney Rd tech in more detail than the quot
 		* ESP Board - __£7__
 		* Sensor Board (MCP9808) - __£5__
 		* Power Supply
+9. UAP-AC-PRO
